@@ -64,3 +64,9 @@ td{
 tr:hover{
   background-color: #cbd5e0;
 }
+
+.home {
+    max-width: 100px;
+    align-self: center;
+    justify-self: center;
+}
